@@ -48,15 +48,18 @@ formado em análise e desenvolvimento de sistemas, pós Graduação em Desenvolv
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=AllandoAlmeida&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllandoAlmeida&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Alando-ItGoal&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alando-ItGoal&theme=neon&hide_border=false"  width="400px" />
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=AllandoAlmeida&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllandoALmeida&show_icons=true&theme=transparent)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Alando-ItGoal&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alando-ItGoal&show_icons=true&theme=transparent)
 
 
 <!-- link para referencia:
     https://github.com/alexandresanlim/Badges4-README.md-Profile?source=post_page-----6eb119218c4--------------------------------
     https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+    Alando-ItGoal
+
 
  -->
