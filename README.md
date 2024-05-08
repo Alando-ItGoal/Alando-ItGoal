@@ -1,7 +1,7 @@
 # Bem-vindo! É um prazer ter você aqui 👋
 
-Sou Alando Almeida, um apaixonado desenvolvedor de software e entusiasta de tecnologia. Atualmente tenho me dedicado a Desenvolvedor de Software com base no meu aprendizado. </br></br>
-Sou iniciante, formado em análise e desenvolvimento de sistemas, pós Graduação em Desenvolvimento full Stack Web e atualmente capacitando em desenvolvimento Full Stack Web no curso livre da Kenzie Acadamy Brasil, tive a oportunidade de desenvolver diversos projetos interessantes e explorar diferentes tecnologias.
+Sou Alando Almeida, um apaixonado desenvolvedor de software e entusiasta de tecnologia. </br></br>
+Desenvolvedor na ItGoal/Zoho, formado em análise e desenvolvimento de sistemas, pós Graduação em Desenvolvimento full Stack Web, e Desenvolvedor Full Stack Web no curso livre da Kenzie Acadamy Brasil, tive a oportunidade de desenvolver diversos projetos interessantes e explorar diferentes tecnologias.
 
 # 🌍 Tecnologies:
 
